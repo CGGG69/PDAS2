@@ -21,7 +21,12 @@ function App() {
               />
             </div>
             <div className="column is-4">
-              <ProfileCard/>
+              <ProfileCard
+               title="alexa"
+               handle="@alexa"
+               image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnRZYN799w8bvBrjJqtXKSSYTqeC5gQjE4_Q&s"
+              />
+              
           </div>
           <div className="column is-4">
               <ProfileCard/>
